@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kothasantosh
-- 👀 I’m interested in testing of all types of applications
+- 👀 I’m interested in testing all types of applications
 - 🌱 I’m currently learning database testing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
