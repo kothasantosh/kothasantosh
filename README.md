@@ -3,11 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kothasantosh&label=Profile%20views&color=0e75b6&style=flat" alt="kothasantosh" /> </p>
 
-- 🔭 I’m currently working on **Backend and Frontend Testing of Application**
+- 🔭 I’m currently working on **Backend and Frontend Testing of Applications**
 
 - 🌱 I’m currently learning **Cloud Computing and Artificial intelligence**
 
-- 📫 How to reach me **kothasantosh62@gmail.com**
+- 📫 Email me At **kothasantosh62@gmail.com**
+- 📱 Call Me At +91 9398794944
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
