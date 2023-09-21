@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kothasantosh&label=Profile%20views&color=0e75b6&style=flat" alt="kothasantosh" /> </p>
 
-- 🔭 I’m currently working on **a Guidewire and Salesforce Applications**
+- 🔭 I’m currently working on **Backend and Frontend Testing of Application**
 
 - 🌱 I’m currently learning **Cloud Computing and Artificial intelligence**
 
