@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kotha Santosh</h1>
-<h3 align="center">Technology-driven Software Engineer with 3+ years of experience in implementing and debugging
+<h3 align="center">Technology-driven Software Engineer in implementing and debugging
 automation tests to help applications run smoothly. Collaborates with the software team in continuous build and deployment. Excels at learning new software tools and best practices in software quality assurance.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kothasantosh&label=Profile%20views&color=0e75b6&style=flat" alt="kothasantosh" /> </p>
