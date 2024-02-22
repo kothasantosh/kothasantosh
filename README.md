@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Kotha Santosh</h1>
+<h1 align="center">Hi there <br>👋, </br> I'm Kotha Santosh</h1>
 <h3 align="center">Technology-driven Software Engineer in implementing and debugging
 automation tests to help applications run smoothly. Collaborates with the software team in continuous build and deployment. Excels at learning new software tools and best practices in software quality assurance.</h3>
 
